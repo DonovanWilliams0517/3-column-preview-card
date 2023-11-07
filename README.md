@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com](https://donovanwilliams0517.github.io/3-column-preview-card/)
+- Live Site URL: (https://donovanwilliams0517.github.io/3-column-preview-card/)
 
 ## My process
 
